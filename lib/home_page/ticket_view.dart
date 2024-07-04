@@ -89,7 +89,7 @@ class TicketView extends StatelessWidget {
                     mainAxisAlignment: MainAxisAlignment.spaceBetween,
                     children: [
                       SizedBox(
-                        width: AppLayout.getWidth(100),
+                        width: AppLayout.getWidth(90),
                         child: Text(ticket['from']['name'],
                             style: isColor == null
                                 ? Styles.headlineStyle4

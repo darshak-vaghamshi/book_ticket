@@ -39,9 +39,6 @@ class TicketsScreen extends StatelessWidget {
                   isColor: true,
                 ),
               ),
-              const SizedBox(
-                height: 1,
-              ),
               Container(
                 padding:
                     const EdgeInsets.symmetric(horizontal: 16, vertical: 20),

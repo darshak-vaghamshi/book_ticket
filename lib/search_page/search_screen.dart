@@ -178,15 +178,15 @@ class SearchScreen extends StatelessWidget {
                             text: const TextSpan(children: [
                           TextSpan(
                             text: '😍',
-                            style: TextStyle(fontSize: 29),
+                            style: TextStyle(fontSize: 22),
                           ),
                           TextSpan(
                             text: '🥰',
-                            style: TextStyle(fontSize: 50),
+                            style: TextStyle(fontSize: 39),
                           ),
                           TextSpan(
                             text: '😘',
-                            style: TextStyle(fontSize: 29),
+                            style: TextStyle(fontSize: 22),
                           )
                         ]))
                       ],
